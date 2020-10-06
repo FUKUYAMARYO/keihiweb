@@ -2,7 +2,7 @@
 
 ## 必須
  - Java 11
- - Docker Desktop
+ - Docker Desktop　https://www.remotemeeting.com/reservation/share/2c908ad674c41ef80174f75dd3d8254d
  
 ## データベースの接続情報設定
 Docker で作成される MySQL サーバー および JDBC に用いる情報の設定を行います。
